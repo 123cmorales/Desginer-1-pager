@@ -1,0 +1,40 @@
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right {
+  position: absolute;
+   top: 375px;
+   right: 16px;
+ }
+ .right2 {
+   position: absolute;
+    top: 425px;
+    right: 16px;
+  }
+  .right3 {
+    position: absolute;
+     top: 450px;
+     right: 16px;
+   }
+   .right4 {
+     position: absolute;
+      top: 475px;
+      right: 16px;
+    }
+.us {
+  position: absolute;
+  top: 550px;
+  right: 160px;
+  color: white;
+  background-color: #10C9C3;
+}
+.stil {
+  position: absolute;
+  right: 0px
+}
+.progress-bar {
+  background-color: #10C9C3;
+}
